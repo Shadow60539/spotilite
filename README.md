@@ -94,7 +94,7 @@ asset | images and lottie files
 Then the lib directory
 
 
-![lib](assets/images/lib.png)
+![lib](images/lib.png)
 
 
 
