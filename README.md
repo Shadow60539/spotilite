@@ -9,7 +9,7 @@ listen to your fav songs with no intruptions.
 
 Before we start, you can take a look at the app:
 
-![Output sample](assets/images/demo.gif)
+![Output sample](images/demo.gif)
 
 ## Key Features
 
